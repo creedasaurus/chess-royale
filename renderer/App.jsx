@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { AppContainer } from 'react-hot-loader';
-import StateComponent from './StateComponent';
+import StateComponent from './components/ChessBoard';
 
 class App extends Component {
   componentDidMount() {
